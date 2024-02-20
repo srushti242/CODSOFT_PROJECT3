@@ -1,2 +1,3 @@
 # CODSOFT_PROJECT3
-passwordgenerator
+passwordgenerator<br/>
+the basic project will generate random password .
